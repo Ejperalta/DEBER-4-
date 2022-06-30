@@ -350,7 +350,13 @@ capitulo 8
 
 ![image](https://user-images.githubusercontent.com/105829461/176730342-9bec9854-13f6-4c95-8acb-1dab778204f6.png)
 
+5 Concluciones
 
+para la resolucion de los distintos ejercicios es necesario tener el conocimiento previo de las leyer de kirchoff y las leyes de ohm ya que con eso se puede intepretar cada uno de los problemas mencionados ademas de que se tiene que reconocer los diferentes tipos de circuitos ademas de ver que es lo que se pide encontrar.
+
+
+6.BIBLIOGRAFIA
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación.
 
 
 
